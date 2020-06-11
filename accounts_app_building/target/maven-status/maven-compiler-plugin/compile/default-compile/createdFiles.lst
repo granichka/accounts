@@ -1,0 +1,5 @@
+local/nix/accounts_app_building/util/BundleUtil.class
+local/nix/accounts_app_building/Main.class
+local/nix/accounts_app_building/builder/AbstractBuilder.class
+local/nix/accounts_app_building/builder/DataBuilder.class
+local/nix/accounts_app_building/builder/DataBuilder$1.class
